@@ -1,0 +1,6 @@
+{
+  "name": "Lantern Quay - Physics Pin & Coin Puzzle",
+  "description": "Original mobile-portrait physics puzzle and room renovation game featuring pin-pull lattice mechanics, fluid coin cascades, and cozy room restoration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

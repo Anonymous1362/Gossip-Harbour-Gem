@@ -1,0 +1,16 @@
+{
+  "name": "Lantern Quay",
+  "short_name": "LanternQuay",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f121d",
+  "theme_color": "#1a1c29",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
